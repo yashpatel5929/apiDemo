@@ -5,6 +5,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class ApiClient {
     //making retrofit builder
+    //adding one more line for testing to make master branch ahead of featured branch
     public static final String BASE_URL = "https://userqaapi.plexigo.com/api/content/";
     private static Retrofit retrofit = null;
 

@@ -4,7 +4,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class ApiClient {
-
+    //making retrofit builder
     public static final String BASE_URL = "https://userqaapi.plexigo.com/api/content/";
     private static Retrofit retrofit = null;
 

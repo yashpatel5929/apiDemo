@@ -6,7 +6,8 @@ import android.os.Bundle;
 
 import com.example.apicalldemo.Presenter.MovieDetailPresenter;
 import com.example.apicalldemo.contract.Contract;
-
+//first comment for squash
+//second comment for squash
 public class MainActivity extends AppCompatActivity implements Contract.View {
     private MovieDetailPresenter movieDetailPresenter;
     @Override

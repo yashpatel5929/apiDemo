@@ -3,6 +3,7 @@ package com.example.apicalldemo.Network;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
+//first squash commit
 public class ApiClient {
     //making retrofit builder
     //adding one more line for testing to make master branch ahead of featured branch

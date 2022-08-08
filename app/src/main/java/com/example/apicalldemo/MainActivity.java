@@ -10,6 +10,7 @@ import com.example.apicalldemo.contract.Contract;
 //second comment for squash
 
 //rebase commit
+//rebase featured branch
 public class MainActivity extends AppCompatActivity implements Contract.View {
     private MovieDetailPresenter movieDetailPresenter;
     @Override

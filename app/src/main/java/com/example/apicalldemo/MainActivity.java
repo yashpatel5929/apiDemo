@@ -6,7 +6,11 @@ import android.os.Bundle;
 
 import com.example.apicalldemo.Presenter.MovieDetailPresenter;
 import com.example.apicalldemo.contract.Contract;
+//first comment for squash
+//second comment for squash
 
+//rebase commit
+//rebase featured branch
 public class MainActivity extends AppCompatActivity implements Contract.View {
     private MovieDetailPresenter movieDetailPresenter;
     @Override
